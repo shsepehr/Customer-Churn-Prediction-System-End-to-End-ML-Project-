@@ -1,0 +1,5 @@
+age,monthly_charges,contract_type,tenure,customer_service_calls,churn
+45,7,Month-to-month,12,4,Yes
+30,40,One year,24,1,No
+52,90,Month-to-month,5,6,Yes
+28,35,Two year,36,0,No
